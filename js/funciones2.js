@@ -1,3 +1,4 @@
+/* Funciones 2 */
 /*Funciones de ejemplo para ejecutar */
 function siguiente(numero) {
     return numero + 1;

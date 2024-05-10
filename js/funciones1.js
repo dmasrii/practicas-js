@@ -1,3 +1,4 @@
+/* Funciones 1 */
 /*Ejericio 1*/ 
 function areaRectangulo (altura,ancho){
     return altura * ancho

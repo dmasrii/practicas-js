@@ -25,3 +25,17 @@ function anterior (numeroParametro){
 }
 const anterior1 = anterior (4)
 console.log(anterior1)
+
+
+function triple (numerop1){
+    return numerop1 * 3
+}
+const triple1 = triple (4)
+console.log(triple1)
+
+function anteriorDelTriple (numerop2){
+    triple2 = numerop2 * 3
+    return triple2 - 1
+}
+const anteriorDelTriple1 = anteriorDelTriple (4)
+console.log(anteriorDelTriple1)
